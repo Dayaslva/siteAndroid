@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="pt-br">
 <body>
 
@@ -9,7 +9,7 @@
     </p>
   </header>
 
-  <section id="tecnologias-utilizadas">
+  <section>
     <h1>Tecnologias Utilizadas</h1>
     <ul>
       <li>HTML5</li>
